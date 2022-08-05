@@ -1,10 +1,13 @@
-#name {
-  margin-top: 0px;
-  padding: 10px;
-  background-color: aqua;
-}
 #navigation {
   display: inline;
+  background-color: aqua;
+  text-align: center;
+  text-decoration: underline;
+}
+.nav-links {
+  margin: 20px;
+  background-color: aquamarine;
+  padding: 10px;
 }
 #image--link {
   display: flex;
